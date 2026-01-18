@@ -15,3 +15,6 @@ A modern web application for creating true or false quizzes.
 - React 19
 - TypeScript
 - Tailwind CSS
+
+
+<!-- Deployment trigger -->
